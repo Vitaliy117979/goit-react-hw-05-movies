@@ -34,8 +34,8 @@ padding: 8px 16px;
   text-decoration: none;
   color: black;
   font-weight: 500;
+  margin-bottom: 40px;
 width: 100px;
-margin-bottom: 40px;
   :hover {
     color: white;
     background-color: orangered;
